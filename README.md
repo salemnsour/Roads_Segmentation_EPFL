@@ -8,7 +8,6 @@ This project implements a road segmentation model using deep learning techniques
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Data Loading & Augmentation](#data-loading--augmentation)
 - [Model Architecture](#model-architecture)
 - [Loss Functions](#loss-functions)
